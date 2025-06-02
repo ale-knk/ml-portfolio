@@ -19,3 +19,6 @@
 [submodule "mlflow-dash"]
 	path = mlflow-dash
 	url = https://github.com/ale-knk/mlflow-dash
+[submodule "bike-rental-demand-pred"]
+	path = bike-rental-demand-pred
+	url = https://github.com/ale-knk/bike-rental-demand-pred.git
