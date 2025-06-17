@@ -1,24 +1,9 @@
-[submodule "modelxplain"]
-	path = modelxplain
-	url = https://github.com/ale-knk/modelxplain
 [submodule "ml-lab"]
 	path = ml-lab
 	url = https://github.com/ale-knk/ml-lab
-[submodule "ml-guard"]
-	path = ml-guard
-	url = https://github.com/ale-knk/ml-guard
 [submodule "ml-serve"]
 	path = ml-serve
 	url = https://github.com/ale-knk/ml-serve
-[submodule "scrapy-flow"]
-	path = scrapy-flow
-	url = https://github.com/ale-knk/scrapy-flow
-[submodule "feedback-flow"]
-	path = feedback-flow
-	url = https://github.com/ale-knk/feedback-flow
-[submodule "mlflow-dash"]
-	path = mlflow-dash
-	url = https://github.com/ale-knk/mlflow-dash
 [submodule "bike-rental-demand-pred"]
 	path = bike-rental-demand-pred
 	url = https://github.com/ale-knk/bike-rental-demand-pred.git
